@@ -142,7 +142,7 @@ section {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('./nyancat.gif');
+  background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('/nyancat.gif');
   background-size: cover;
   background-position: center;
   color: white;
@@ -166,7 +166,7 @@ section {
 
 .s6 {
   height: 100vh;
-  background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('./gato.jpg');
+  background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('/gato.jpg');
   background-size: cover;
   background-position: center;
   display: flex;
