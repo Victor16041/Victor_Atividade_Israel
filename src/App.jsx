@@ -70,7 +70,8 @@ function App() {
           <div className={styles.caixaopiniao}>
             <h1 className={styles.tituloopiniao}>Minhas Opiniões</h1>
             <p className={styles.textoopiniao}>
-              Eu particularmente não ligo nem um pouco pra essa guerra, se eles quiserem continuar se matando, que continuem. Não sou idiota de ter uma religião, morram judeus, e morram árabes, tanto faz pra mim. Brigas de ideologias são a coisa mais boba que eu ja vi, porque tipo, vc tá chegando ao ponto de matar outra pessoa pq ela não pensa o mesmo que você.<br/><br/> E o pior de tudo é que a midia ainda consegue gerar milhões e milhões por cima de tudo isso, as vezes até com fake news e desinformação. Já cheguei a ver muitas noticias sobre israel estar certo, e que palestina são terroristas e que nn sei oq, e ja vi noticias falando o contrario também.<br></br>Eu tive sorte de uma das minhas irmãs estar morando pra aqueles lado lá que ta tendo essa guerra, então ela teve uma "visão" mais de perto de como as coisas eram lá.<br/><br/> Enfim, eu não me importo com essa guerra, contanto que não venha pro brasil, eu to de boa.
+              Eu particularmente não ligo nem um pouco pra essa guerra, morram judeus, e morram árabes, tanto faz.
+              
             </p>
           </div>
         </section>
