@@ -81,17 +81,17 @@ function App() {
 
           <div className={styles.contatos}>
             <a href="https://discord.com/users/578944838368624660" target="_blank" className={styles.itemcontato}>
-              <img src="../public/discord.png" className={styles.fotocontato} />
+              <img src="/discord.png" className={styles.fotocontato} />
               <span className={styles.tipocontato}>Discord</span>
             </a>
 
             <a href="https://steamcommunity.com/profiles/76561199065235739/" target="_blank" className={styles.itemcontato}>
-              <img src="../public/steam.png" className={styles.fotocontato} />
+              <img src="/steam.png" className={styles.fotocontato} />
               <span className={styles.tipocontato}>Steam</span>
             </a>
 
             <a href="https://github.com/Victor16041" target="_blank" className={styles.itemcontato}>
-              <img src="../public/github.png" className={styles.fotocontato} />
+              <img src="/github.png" className={styles.fotocontato} />
               <span className={styles.tipocontato}>Github</span>
             </a>
           </div>
