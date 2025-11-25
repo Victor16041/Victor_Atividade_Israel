@@ -83,19 +83,19 @@ section {
 }
 
 .s2 {
-  background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('./israel2.jpg');
+  background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('/israel2.jpg');
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .s3 {
-  background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('./palestina2.png');
+  background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('/palestina2.png');
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .s4 {
-  background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('./guerra2.webp');
+  background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('/guerra2.webp');
   background-repeat: no-repeat;
   background-size: cover;
 }

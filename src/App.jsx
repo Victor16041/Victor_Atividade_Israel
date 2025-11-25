@@ -1,8 +1,8 @@
 import styles from './App.module.css'
-import imagemisrael from '../public/israel.png'
-import imagempalestina from '../public/palestina.jpg'
-import imagemguerra from '../public/guerra.webp'
-import imagemperfil from '../public/foto1.jpg'
+import imagemisrael from '/israel.png'
+import imagempalestina from '/palestina.jpg'
+import imagemguerra from '/guerra.webp'
+import imagemperfil from '/foto1.jpg'
 
 function App() {
   return (
